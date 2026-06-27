@@ -1,0 +1,17 @@
+{
+  "name": "ai-os-ide",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "echo \"Dev server placeholder\"",
+    "build": "echo \"Build placeholder\"",
+    "lint": "echo \"Lint placeholder\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
